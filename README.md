@@ -1,1 +1,1 @@
-# kattis-problems
+# Kattis Problems
